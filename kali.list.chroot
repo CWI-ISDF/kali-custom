@@ -23,6 +23,7 @@ kali-linux-full
 kali-desktop-gnome
 libreoffice
 open-vm-tools-desktop
+guake
 fuse
 htop
 exfat-fuse
@@ -31,6 +32,7 @@ apt-file
 tor
 proxychains
 scrub
+vega
 bleachbit
 metagoofil
 screenfetch
